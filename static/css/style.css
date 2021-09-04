@@ -1,0 +1,17 @@
+.row {
+    border: 1px solid grey;
+}
+.panel-body {
+    font-family:verdana;
+    font-size: 1px;
+    font-weight: bold;
+}
+.jumbotron {
+  background-image: url("../images/micro.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  text-decoration-color: aliceblue;
+}
+.well {
+    background-color: #337ab7;
+}
