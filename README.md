@@ -38,4 +38,11 @@
 ![image](https://user-images.githubusercontent.com/85472349/132107542-4ee6ada0-1e77-441f-a9e8-713a6469061a.png)
 
 
+**Github pages link to view the dashboard is:**
+
+https://saranyadurairaju.github.io/Module12-Final-Assignment-Analysis/
+
+
+
+
 **Roza now a completed dashboard with demographic information and to visualize the bacterial data for each volunteer. Her volunteers are able to identify the top 10 bacterial species in their belly buttons. That way, Roza's volunteers are able to identify whether that species is found in their navel. Hurry!!!**
